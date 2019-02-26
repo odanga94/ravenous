@@ -66,3 +66,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+# ravenous
+Ravenous is a React-based front-end web app that searches a database like Yelp and returns relevant data sorted by best match, highest rated or most reviewed.
